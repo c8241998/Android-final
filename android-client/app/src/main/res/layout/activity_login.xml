@@ -28,7 +28,7 @@
         android:layout_width="match_parent"
         android:layout_height="160dp"
         android:scaleType="fitXY"
-        app:srcCompat="@drawable/banner_gym" />
+        app:srcCompat="@drawable/main2" />
 
     <Space
         android:layout_width="match_parent"

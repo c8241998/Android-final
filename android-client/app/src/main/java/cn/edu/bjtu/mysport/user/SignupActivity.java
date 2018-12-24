@@ -349,7 +349,7 @@ public class SignupActivity extends AppCompatActivity implements LoaderCallbacks
                         .addCallAdapterFactory(RxJavaCallAdapterFactory.create())
                         .build();
 
-                LoginService service = retrofit.create(LoginService.class);
+                HttpService service = retrofit.create(HttpService.class);
                 Call<ResponseBody> call = service.register(mEmail,mPassword,mUsername);
                 call.enqueue(
                         new Callback<ResponseBody>() {

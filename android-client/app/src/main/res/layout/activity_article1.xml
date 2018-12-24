@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".article.Article1">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_margin="15dp"
+                app:srcCompat="@drawable/article1" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:text="    Yang Fang and Liu Kaiwei have not been favored since they announced their love affairs, because their strength, face value and status are very different. It has been four years since he got married in 2014. Yang also gave birth to his daughter Xiaonuomi for Liu Kaiwei.
+    Originally, they should be happy and happy, but Yang Fang's career is too strong, just gave birth to glutinous rice and came back to work. After her comeback, she seemed to be hanging up. Her popularity, resources and word-of-mouth were all very good. Later, he opened his own studio. But there are gains and losses, as a woman, career and family can not be taken into account at the same time. So she and Liu Kaiwei get together less and more, and have little time to accompany her daughter. It can be said that after marriage, the three members of their family have basically not been in the same frame."
+                android:textAppearance="@android:style/TextAppearance.Holo" />
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

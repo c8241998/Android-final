@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".article.Article1">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_margin="15dp"
+                app:srcCompat="@drawable/article6" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:text="    Recently, there is a news quickly boarded the microblog hot search, instantly became a hot topic by netizens. Presumably this matter has been known by many people who eat melons, that is, Liu Qiangdong's sexual assault in the United States. When this news was revealed, many netizens were in a suspicious mood. How could a well-known wealthy person in China do such a terrible thing? Moreover, Liu Qiangdong is impressed by people's integrity, which is especially good for both the employees under the company and the villagers in his hometown. But there may be a little truth in such a thing, and a large number of people think it is totally impossible. How can Liu Qiangdong possibly do these things behind his sister's back when his wife and sister are beautiful and immortal?
+    But there are also some netizens who are afraid that the world will not be chaotic. They also say that Liu Qiangdong is blind and can't see his sister's face. Therefore, her sister has no attraction for Liu Qiangdong. The truth of this matter is only clear to the parties themselves, but after the incident was exposed later, someone quickly proved Liu Qiangdong's sexual assault case, and also said that he left video evidence when Liu Qiangdong was arrested."
+                android:textAppearance="@android:style/TextAppearance.Holo" />
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

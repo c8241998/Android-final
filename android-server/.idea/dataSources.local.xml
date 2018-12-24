@@ -9,7 +9,7 @@
       <auth-required>false</auth-required>
       <introspection-schemas>*:@</introspection-schemas>
     </data-source>
-    <data-source name="Django default" uuid="1cd4d3c2-0974-4343-85dd-dd43d4377d82">
+    <data-source name="Django default2" uuid="854c72ff-edaf-4070-97a0-bf21007a0113">
       <database-info product="SQLite" version="3.25.1" jdbc-version="2.1" driver-name="SQLite JDBC" driver-version="3.25.1" family="SQLITE" exact-version="3.25.1">
         <identifier-quote-string>&quot;</identifier-quote-string>
       </database-info>

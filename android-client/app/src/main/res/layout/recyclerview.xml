@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical" android:paddingTop="10dp"
-    tools:context="cn.edu.bjtu.mysport.MainActivity"
+    tools:context="cn.edu.bjtu.mysport.activity.MainActivity"
     >
 
     <android.support.v7.widget.RecyclerView

@@ -27,7 +27,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name=".activity.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -59,7 +59,13 @@
         <activity
             android:name="cn.edu.bjtu.mysport.user.SignupActivity"
             android:label="@string/title_activity_signup" />
-        <activity android:name=".BookList"></activity>
+        <activity android:name=".activity.BookList"/>
+        <activity android:name=".article.Article1" />
+        <activity android:name=".article.Article2" />
+        <activity android:name=".article.Article3" />
+        <activity android:name=".article.Article4" />
+        <activity android:name=".article.Article5" />
+        <activity android:name=".article.Article6"></activity>
     </application>
 
 </manifest>

@@ -343,7 +343,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
                         .addCallAdapterFactory(RxJavaCallAdapterFactory.create())
                         .build();
 
-                LoginService service = retrofit.create(LoginService.class);
+                HttpService service = retrofit.create(HttpService.class);
                 Call<ResponseBody> call = service.login(mEmail,mPassword);
                 call.enqueue(
                         new Callback<ResponseBody>() {

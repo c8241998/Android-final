@@ -89,3 +89,11 @@ def addword(request):
     book = models.book(user=user,word=word)
     book.save()
     return HttpResponse('')
+
+def removeword(request):
+    email = request.POST.get("email")
+    word = request.POST.get("word")
+    user = models.MyUser.objects.get(email=email)
+    book = models.book.objects.get(user=user,word=word)
+    book.delete()
+    return HttpResponse('')

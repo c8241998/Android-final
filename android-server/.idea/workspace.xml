@@ -1,7 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3abf7e98-9ba5-4308-a737-e86ff8297291" name="Default Changelist" comment="" />
+    <list default="true" id="3abf7e98-9ba5-4308-a737-e86ff8297291" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../android-client/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../android-client/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../android-client/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/java/cn/edu/bjtu/mysport/BookList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/java/cn/edu/bjtu/mysport/CoachFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/java/cn/edu/bjtu/mysport/CourseFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/java/cn/edu/bjtu/mysport/DashBoardFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/java/cn/edu/bjtu/mysport/InfoFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/java/cn/edu/bjtu/mysport/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/java/cn/edu/bjtu/mysport/NewsFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/java/cn/edu/bjtu/mysport/QueryFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/java/cn/edu/bjtu/mysport/user/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../android-client/app/src/main/java/cn/edu/bjtu/mysport/user/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/java/cn/edu/bjtu/mysport/user/LoginService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/java/cn/edu/bjtu/mysport/user/SignupActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../android-client/app/src/main/java/cn/edu/bjtu/mysport/user/SignupActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/ath0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/ath1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/ath10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/ath11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/ath12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/ath13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/ath2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/ath3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/ath6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/ath7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/banner_gym.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/head.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/info1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/info2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/info3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/info4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/info5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/info6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/info_arrive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/info_friend.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/sport1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/sport2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/sport3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/sport4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/sport5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/sport6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/sport7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/sport8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/sport9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/trainer1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/trainer2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/trainer3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/trainer4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/trainer5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/trainer6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/drawable/wallpaper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../android-client/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/layout/activity_signup.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../android-client/app/src/main/res/layout/activity_signup.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/layout/app_bar_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../android-client/app/src/main/res/layout/app_bar_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/layout/content_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../android-client/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/layout/fragment_coach.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/layout/fragment_course.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../android-client/app/src/main/res/layout/fragment_course.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/layout/fragment_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/layout/fragment_test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/layout/recyclerview.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../android-client/app/src/main/res/layout/recyclerview.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-client/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../android-client/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/account_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_app/urls.py" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,16 +88,16 @@
     <expand>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="Django default2" type="feb32156:DbDataSourceImpl" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="Django default2" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="Django default2" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
       </path>
@@ -228,21 +293,53 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="795403404">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="45" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="45" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="account_app_book" value="1" />
+          <entry key="account_app_myuser" value="7" />
+          <entry key="sqlite3" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="8" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/account_app/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="82" column="34" lean-forward="true" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+            <state relative-caret-position="212">
+              <caret line="93" column="37" lean-forward="true" selection-start-line="93" selection-start-column="37" selection-end-line="93" selection-end-column="37" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
-                <element signature="e#411#1113#0" />
-                <element signature="e#1143#2205#0" />
-                <marker date="1545652057709" expanded="true" signature="2352:2357" ph="..." />
-                <marker date="1545652057709" expanded="true" signature="2622:2627" ph="..." />
-                <marker date="1545652057709" expanded="true" signature="3030:3035" ph="..." />
+                <marker date="1545677036072" expanded="true" signature="2352:2357" ph="..." />
+                <marker date="1545677036072" expanded="true" signature="2622:2627" ph="..." />
+                <marker date="1545677036072" expanded="true" signature="3030:3035" ph="..." />
               </folding>
             </state>
           </provider>
@@ -251,8 +348,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_app/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+            <state relative-caret-position="326">
+              <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
               <folding>
                 <element signature="e#630#662#0" expanded="true" />
               </folding>
@@ -261,14 +358,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="das://854c72ff-edaf-4070-97a0-bf21007a0113/schema/main/table/account_app_myuser">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/account_app/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
+            <state relative-caret-position="1520">
               <caret line="85" column="42" selection-start-line="85" selection-start-column="42" selection-end-line="85" selection-end-column="42" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
-                <element signature="e#385#1247#0" />
-                <element signature="e#1287#2370#0" />
                 <marker date="1545642388079" expanded="true" signature="2181:2186" ph="..." />
               </folding>
             </state>
@@ -342,7 +446,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-15" />
     <option name="width" value="960" />
     <option name="height" value="1030" />
@@ -353,34 +457,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="my_app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_app" type="462c0819:PsiDirectoryNode" />
+              <item name="android-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="my_app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_app" type="462c0819:PsiDirectoryNode" />
-              <item name="account_app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my_app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_app" type="462c0819:PsiDirectoryNode" />
-              <item name="account_app" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my_app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_app" type="462c0819:PsiDirectoryNode" />
+              <item name="android-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android-server" type="462c0819:PsiDirectoryNode" />
               <item name="my_app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -916,16 +1009,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4957806" visible="true" weight="0.14745308" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4957806" visible="true" weight="0.15348525" />
       <window_info id="Structure" order="1" sideWeight="0.5042194" side_tool="true" weight="0.22050938" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Statistic" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -938,6 +1029,7 @@
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32956153" />
       <window_info anchor="bottom" id="REST Client" order="14" weight="0.40651557" />
+      <window_info anchor="bottom" id="Statistic" order="15" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -978,9 +1070,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/style/reset.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/style/reset.css" />
     <entry file="file://$PROJECT_DIR$/account_app/urls.py" />
     <entry file="file://$PROJECT_DIR$/my_app/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -1046,9 +1136,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/image/background.jpg" />
-    <entry file="file://$PROJECT_DIR$/static/image/login_background.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/image/login_background.jpg" />
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1063,27 +1151,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2888">
-          <caret line="152" column="69" selection-start-line="152" selection-start-column="69" selection-end-line="152" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/me.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3591">
-          <caret line="189" column="30" selection-start-line="189" selection-start-column="30" selection-end-line="189" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="69" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/register.html" />
+    <entry file="file://$PROJECT_DIR$/templates/me.html" />
+    <entry file="file://$PROJECT_DIR$/templates/login.html" />
     <entry file="file://$PROJECT_DIR$/my_app/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -1091,63 +1161,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/landing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/javascript/landing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/style/login.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/style/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/style/register.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/landing.html" />
+    <entry file="file://$PROJECT_DIR$/static/javascript/landing.js" />
+    <entry file="file://$PROJECT_DIR$/static/style/login.css" />
+    <entry file="file://$PROJECT_DIR$/static/style/style.css" />
+    <entry file="file://$PROJECT_DIR$/static/style/register.css" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt" />
     <entry file="file://$PROJECT_DIR$/account_app/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="1520">
           <caret line="85" column="42" selection-start-line="85" selection-start-column="42" selection-end-line="85" selection-end-column="42" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
-            <element signature="e#385#1247#0" />
-            <element signature="e#1287#2370#0" />
             <marker date="1545642388079" expanded="true" signature="2181:2186" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_app/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
-          <folding>
-            <element signature="e#630#662#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1162,17 +1188,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="das://1cd4d3c2-0974-4343-85dd-dd43d4377d82/schema/main/table/account_app_myuser">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_app/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+          <folding>
+            <element signature="e#630#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://854c72ff-edaf-4070-97a0-bf21007a0113/schema/main/table/account_app_myuser">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/account_app/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="82" column="34" lean-forward="true" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+        <state relative-caret-position="212">
+          <caret line="93" column="37" lean-forward="true" selection-start-line="93" selection-start-column="37" selection-end-line="93" selection-end-column="37" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#411#1113#0" />
-            <element signature="e#1143#2205#0" />
-            <marker date="1545652057709" expanded="true" signature="2352:2357" ph="..." />
-            <marker date="1545652057709" expanded="true" signature="2622:2627" ph="..." />
-            <marker date="1545652057709" expanded="true" signature="3030:3035" ph="..." />
+            <marker date="1545677036072" expanded="true" signature="2352:2357" ph="..." />
+            <marker date="1545677036072" expanded="true" signature="2622:2627" ph="..." />
+            <marker date="1545677036072" expanded="true" signature="3030:3035" ph="..." />
           </folding>
         </state>
       </provider>

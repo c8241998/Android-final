@@ -25,4 +25,5 @@ urlpatterns = [
     url(r'^getUsername$', views.getUsername, name='getUsername'),
     url(r'^getbook$', views.getbook, name='getbook'),
     url(r'^addword$', views.addword, name='addword'),
+    url(r'^removeword$', views.removeword, name='removeword'),
 ]
