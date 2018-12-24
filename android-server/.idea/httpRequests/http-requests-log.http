@@ -1,0 +1,176 @@
+GET http://localhost:8000/getUsername?email=569362884@qq.com
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-14T021543.200.html
+
+###
+
+POST http://localhost:8000/login?email=569362884@qq.com&password=8241998czd
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-12T084854.200.html
+
+###
+
+POST http://localhost:8000/login?oldPass=123&newPass=1234567
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-07T091329.403.html
+
+###
+
+POST http://localhost:8000/me?oldPass=123&newPass=1234567
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-07T091324.403.html
+
+###
+
+POST http://localhost:8000/me/changePassword?oldPass=123&newPass=1234567
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-07T091317.403.html
+
+###
+
+POST http://localhost:8000/me/changePassword?oldPass=123&newPass=1234567
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-07T091259.403.html
+
+###
+
+POST http://localhost:8000/me/changePassword?oldPass=123&newPass=1234567
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-07T091119.403.html
+
+###
+
+POST http://localhost:8000/login?username=2@qq.com&password=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-23T085036.403.html
+
+###
+
+GET http://localhost:8000/login?username=2@qq.com&password=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-23T085029.200.html
+
+###
+
+POST http://localhost:8000/login?username=2@qq.com&password=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-23T084958.403.html
+
+###
+
+POST http://localhost:8000/login?username=2@qq.com&password=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-23T084950.403.html
+
+###
+
+POST http://localhost:8000/login?username=2@qq.com&password=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-23T084944.403.html
+
+###
+
+POST http://localhost:8000/login?username=2@qq.com&password=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-23T084922.403.html
+
+###
+
+POST http://localhost:8000/login?username=2@qq.com&password=123&passwordAgain=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-23T084909.403.html
+
+###
+
+POST http://localhost:8000/login?username=2@qq.com&password=123&passwordAgain=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-23T084449.403.html
+
+###
+
+POST http://localhost:8000/login?username=2@qq.com&password=123&passwordAgain=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-23T084433.403.html
+
+###
+
+POST http://localhost:8000/login?username=2@qq.com&password=123&passwordAgain=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-23T084431.403.html
+
+###
+
+GET http://localhost:8000/register?username=2@qq.com&password=123&passwordAgain=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-23T084417.200.html
+
+###
+
+POST http://localhost:8000/register?username=2@qq.com&password=123&passwordAgain=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-23T084409.403.html
+
+###
+
+POST http://localhost:8000/register?username=2@qq.com&password=123&passwordAgain=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-23T084255.403.html
+
+###
+
+POST http://localhost:8000/register
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-23T084218.403.html
+
+###
+
+GET http://localhost:8000/register
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-23T084201.200.html
+
+###
+

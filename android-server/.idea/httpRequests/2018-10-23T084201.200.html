@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Session 5 Exercise</title>
+    <link rel="stylesheet" href="/static/style/reset.css">
+    <link rel="stylesheet" href="/static/style/style.css">
+</head>
+
+<body>
+<script src="/static/javascript/script.js"></script>
+<main>
+    <div class='flexbox-container'>
+        <div class='flex-item'></div>
+        <div class='flex-item'>
+            <div class='login-frame'>
+                <form action="register" method="post">
+                    <input type="hidden" name="csrfmiddlewaretoken"
+                           value="r0SE0IChXJM60gHEIvVFZEqeaaKeITxKmb563DFAEJ6mt1BRMoyfLp9SR7Ek2f2H">
+                    <p>Email Address
+                        <br>
+                        <input type="text" size="30" class='text-class' id='username' name="username">
+                    </p>
+                    <br>
+                    <p>Password
+                        <br>
+                        <input type="password" size="30" class='text-class' id='password' name="password">
+                    </p>
+                    <br>
+                    <p>Password Again
+                        <br>
+                        <input type="password" size="30" class='text-class' id='passwordAgain' name="passwordAgain">
+                    </p>
+                    <br>
+
+                    <div class='small-container'>
+                        <div class='small-item'>
+                            <input type="checkbox" class='check-box'>Remenber Me
+                        </div>
+                        <input type="submit" onclick="check()" class='small-item' value='Register'/>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+</main>
+</body>
+
+</html>
